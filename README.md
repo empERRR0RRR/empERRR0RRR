@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Miron</h1>
-<p align="center">Aspiring backend developer — building Telegram bots and backend pet projects with Python.</p>
+<h1 align="center">Hi there 👋 I'm Miron (empERR0RRR)</h1>
+<p align="center">Aspiring backend developer. Learning Python and building Telegram bots and pet projects with a backend focus.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
