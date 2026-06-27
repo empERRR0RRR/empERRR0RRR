@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Miron (empERR0RRR)</h1>
+<h1 align="center">Hi there 👋 I'm Miron (empERRR0RRR)</h1>
 <p align="center">Aspiring backend developer. Learning Python and building Telegram bots and pet projects with a backend focus.</p>
 
 <p align="center">
@@ -7,6 +7,9 @@
 </p>
 
 ---
+
+### 🌱 Currently learning
+FastAPI · API design
 
 ### 🚀 What I've built
 
