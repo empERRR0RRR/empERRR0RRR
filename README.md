@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Miron (empERRR0RRR)
 
-<!--
-**empERRR0RRR/empERRR0RRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring backend developer. Learning Python and building Telegram bots and pet projects with a backend focus.
 
-Here are some ideas to get you started:
+🛠 **Stack:** Python, PIL, aiogram
+🌱 **Currently learning:** FastAPI, API design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I've built
+
+- 🎨 **MemeAlgo Bot** — meme generator built on aiogram 3 with an FSM architecture and dynamic text rendering via Pillow
+- 📊 **Polymarket Parser** — market data parser using the CLOB API with Excel export
+
+![Stats](https://github-readme-stats.vercel.app/api?username=empERRR0RRR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empERR0RRR&layout=compact&theme=tokyonight)
