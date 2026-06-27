@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Miron (empERRR0RRR)</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="center">Aspiring backend developer. Learning Python and building Telegram bots and pet projects with a backend focus.</p>
 
 <p align="center">
