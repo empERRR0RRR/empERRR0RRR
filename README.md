@@ -9,7 +9,8 @@
 ---
 
 ### 🌱 Currently learning
-FastAPI · API design
+- **FastAPI**
+- **API Design**
 
 ### 🚀 What I've built
 
