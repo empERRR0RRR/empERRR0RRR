@@ -8,9 +8,6 @@
 
 ---
 
-### 🌱 Currently learning
-FastAPI · Docker · API design
-
 ### 🚀 What I've built
 
 - 🎨 **MemeAlgo Bot** — meme generator built on aiogram 3 with an FSM architecture and dynamic text rendering via Pillow
@@ -19,6 +16,6 @@ FastAPI · Docker · API design
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=empERR0RRR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empERR0RRR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=empERRR0RRR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empERRR0RRR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
