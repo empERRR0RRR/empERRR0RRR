@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Aspiring+backend+developer;Building+Telegram+bots+with+Python;Learning+FastAPI+%26+Docker" alt="Typing SVG" />
-</p>
+<p align="center">Aspiring backend developer. Learning Python and building Telegram bots and pet projects with a backend focus.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
