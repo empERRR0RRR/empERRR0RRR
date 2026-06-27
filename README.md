@@ -13,4 +13,4 @@ Aspiring backend developer. Learning Python and building Telegram bots and pet p
 - 📊 **Polymarket Parser** — market data parser using the CLOB API with Excel export
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=empERRR0RRR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empERR0RRR&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empERRR0RRR&layout=compact&theme=tokyonight)
